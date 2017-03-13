@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/Carpspot/Login" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/Carpspot/Product" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Carpspot/Basket" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

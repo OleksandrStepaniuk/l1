@@ -7,6 +7,11 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Created by admin_alex
+ * Guide for start test: Carpspot folder => find testng.xml file => click right and run => good luck
+ */
+
 public class LoginTest {
     private WebDriver driver;
 

@@ -9,7 +9,8 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by oleksandr on 12.03.2017.
+ * Created by admin_alex
+ * Guide for start test: Carpspot folder => find testng.xml file => click right and run => good luck
  */
 public class ProductTest {
     private WebDriver driver;
