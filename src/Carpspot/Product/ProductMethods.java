@@ -12,8 +12,12 @@ public class ProductMethods {
         this.driver = driver;
     }
 
+    public WebElement findElement(String s) {
+        return driver.findElement(By.xpath(s));
+    }
+
     public void pressButton(String locator) {
         WebElement buttonClick = driver.findElement(By.xpath(locator));
-        buttonClick.click();    //
+        buttonClick.click();
     }
 }
